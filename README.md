@@ -10,3 +10,14 @@ The Automated EDA Analysis project revolves around a web application designed to
   The text must span multiple lines in order to demonstrate that this works.
   bobbyhadz.com
 </div>
+
+<div align='justify'>
+  Some very long text here.
+  The text must span multiple lines in order to demonstrate that this works.
+  bobbyhadz.com
+</div>
+<p align="justify"> 
+  Some very long text here.
+  The text must span multiple lines in order to demonstrate that this works.
+  bobbyhadz.com
+</p>
