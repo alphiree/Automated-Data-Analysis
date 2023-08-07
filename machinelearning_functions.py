@@ -1,5 +1,5 @@
 ## Basic Packages
-from Dependencies.basic_packages import *
+from basic_packages import *
 
 import streamlit as st
 ## For importing option menu in streamlit

@@ -2,7 +2,7 @@
 ## Dependencies
 
 ## Basic Packages
-from Dependencies.basic_packages import *
+from basic_packages import *
 
 ## For accessing files created in python in joblib or pickle file
 import joblib
